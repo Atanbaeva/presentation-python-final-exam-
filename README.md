@@ -1,5 +1,5 @@
 # presentation-python-final-exam-
-# video presentation
+# video presentations
 space invaders
 
 # [Space-inavaders.pptx](https://github.com/Atanbaeva/presentation-python-final-exam-/files/5729407/Space-inavaders.pptx)
